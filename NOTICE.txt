@@ -1,0 +1,9 @@
+KIE Examples
+Copyright 2020 Optum
+
+Project Description:
+====================
+KIE Examples is a multi-project repository containing example projects using various KIE Group projects such as Drools and jBPM.
+
+Author(s):
+Matt Hornung (@hmatt1)
