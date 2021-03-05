@@ -1,0 +1,7 @@
+version: "3"
+services:
+  jbpm:
+    image: jboss/jbpm-server-full:7.48.0.Final
+    ports:
+    - 8080:8080
+    - 8001:8001
