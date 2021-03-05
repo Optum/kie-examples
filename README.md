@@ -7,6 +7,7 @@ This repository will be used to provide minimal, reproducible examples for issue
 ## Examples Inventory List
 
 - [Example 1:](./1) Mapping DMN output to a Data Object in BPMN results in ClassCastException
+- [Example 2:](./2) A comparison of how DMN handles dates with Java applications, KIE Server and Kogito
 
 
 
