@@ -67,3 +67,6 @@ The workaround is to map the output from the DMN to an Object, and then use a FE
 This is illustrated by `myTest2` in [MyExampleTest](./src/test/java/com/myspace/exampleproject/MyExampleTest.java) where
 the output object is an instance of HashMap.
 
+## Fix
+
+We contributed a fix to jBPM as part of this PR: https://github.com/kiegroup/jbpm/pull/1840 
